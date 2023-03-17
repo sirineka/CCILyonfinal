@@ -391,6 +391,7 @@ em {
 .about-img {
     width: 40%;
     position: relative;
+    z-index: 0;
 }
 
 .about-img img {
